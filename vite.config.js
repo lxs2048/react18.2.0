@@ -4,7 +4,7 @@ import path from "path";
 
 export default defineConfig({
   define: {
-    __DEV__: true,
+    __DEV__: false,
     __PROFILE__: true,
     __EXPERIMENTAL__: true,
   },
